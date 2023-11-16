@@ -41,7 +41,7 @@ export default function Home() {
             The Captain Project
           </Heading>
 
-          <Link href="https://github.com/captain-project/captain-project">
+          <Link href="https://github.com/MeilianLee/web-temp">
             <Button bg="white" variant="solid" leftIcon={<DownloadIcon />}>
               Download
             </Button>
