@@ -163,7 +163,7 @@ export default function Home() {
             </Heading>
             <Text mt={5}>
               A desktop app is coming soon. The Python source code is available
-              on <a href="//github.com/captain-project/captain">GitHub</a>.
+              on <a href="//github.com/MeilianLee/web-temp">GitHub</a>.
             </Text>
             <Text mt={5}>
               We provide{" "}
